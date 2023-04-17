@@ -1,0 +1,2 @@
+This is a code to create a graph from the database of the airports. This dataset take into account 3214 airports and its main routes. 
+It also create a file to read it easely in C and an option to print into an graphml in case you want to analyze it in gephi
